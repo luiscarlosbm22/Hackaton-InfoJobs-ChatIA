@@ -1,0 +1,111 @@
+{
+    "empleos": [
+      
+      {
+        "puesto": "Desarrollador/a Front React",
+        "empresa": "Digital Talent Agency Zona Centro",
+        "ubicacion": "A Coruña",
+        "modalidad": "Teletrabajo",
+        "hace": "6h",
+        "estado": "Nueva",
+        "descripcion": "Te ofrecemos desarrollar proyectos en empresas destacadas del sector tecnológico...",
+        "contrato": "Contrato indefinido",
+        "jornada": "Jornada completa",
+        "salario": "30.000 € - 40.000 € Bruto/año ",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/dd/ddd739fe-2ff2-4eea-a97c-5657db8baed2?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2ODQ1MDMzMzYsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kZC9kZGQ3MzlmZS0yZmYyLTRlZWEtYTk3Yy01NjU3ZGI4YmFlZDIiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.PJ6mVM2STpxGxSHpwqLIObqmCZaj8xJy8LLdZhi8iCk8TIVfovgMemD1BJbgiHF3j5fkEgUMSu3mSfdH6H5IrMUk19HzLCtgaEbO0F8ktFYVt0d7jGbxG34Pe15bfevzi9YyHoF9wVW2uQYPXZju0IoYzrUhTZ0R7r6KxIJ4XbXDiThe1KpBCtqfEXxFjiuy4YOB-0qu0TctNcVOhAoFco-8M-6nQ9GGRsv3x3hw_HcYfIgP6I9N5uYyO-XL0Sym2I6vx8ito2Xpt9eMQO_9p_ckCm0gNhbZrp5-QbeS99YUZ8h6rY4XOADjynHit69Q1FhXFrdG6hFR6nrLvU6xGA&AccessKeyId=d724d9a53d95a810&rule=largeDevice155",
+        "porcentaje": "90%",
+        "aplicar" : "https://www.infojobs.net/a-coruna/desarrollador-front-react-100-remoto/of-i198dbff8614a9eb89a1507c55a0de7?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      },
+      {
+        "puesto": "Desarrollador senior PHP con Drupal",
+        "empresa": "IDEAL EDUCATION GROUP",
+        "ubicacion": "Madrid",
+        "modalidad": "Presencial",
+        "hace": "15h",
+        "estado": "Nueva",
+        "descripcion": "Un desarrollador senior con dominio de CMS Drupal, con foco en el negocio, actitud proactiva y ganas de aportar valor..",
+        "contrato": "Contrato temporal",
+        "jornada": "Jornada Completa",
+        "salario": "30.000€ - 36.000€ Bruto/año",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/b8/b8ce6320-a6e7-4153-aaec-4c920b1a331c?rule=largeDevice155",
+        "porcentaje": "82%",
+        "aplicar" : "https://www.infojobs.net/madrid/desarrollador-senior-php-con-drupal/of-iae0ee16e8e45aabaacb84f2cc71fa5?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      },
+      {
+        "puesto": "Desarrollador/a .NET",
+        "empresa": "CSA",
+        "ubicacion": "España/Burgos",
+        "modalidad": "Híbrido",
+        "hace": "2d",
+        "estado": "Activa",
+        "descripcion": " Buscamos experiencia en el desarrollo de aplicaciones basadas en MVC...",
+        "contrato": "Contrato indefinido",
+        "jornada": "jornada completa",
+        "salario": "Salario no disponible",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/5a/5a6dfff6-b6fd-439c-9921-cb2a16ddea25?rule=largeDevice155",
+        "porcentaje": "85%",
+        "aplicar" : "https://www.infojobs.net/burgos/desarrollador-.net/of-i73faaefe3c42f19327c22ba1c65d61?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      },
+      {
+        "puesto": "Desarrollador web y aplicaciones",
+        "empresa": "LA MAFIA FRANCHISES, S.L.",
+        "ubicacion": "Zaragoza",
+        "modalidad": "Presencial",
+        "hace": "14h",
+        "estado": "Nueva",
+        "descripcion": "Grupo La Mafia se sienta a La Mesa, en su ambicioso plan de expansión para el próximo 2023, continúa su crecimiento..",
+        "contrato": "Contrato indefinido",
+        "jornada": "Jornada completa",
+        "salario": "Salario no disponible",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/d1/d13392fc-5ecc-44c2-9a55-23e9715f7ff8?jwt=eyJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE2NjAxMjQyMzUsInJxcyI6IkdFVFxcL3RlbmFudHMvYzdlMmI5YzEtODQ4MC00M2IwLWFkOWUtMDAwYzE3YWEyY2JiL2RvbWFpbnMvNzE4MzAyYjYtNTM0My00M2QzLWE4YTMtODI5ZGMzZGEwODkzL2J1Y2tldHMvNmYzYWIxY2MtNTkyMC00ZjRlLWIxMzEtNDZhNDU4N2EwZTFmL2ltYWdlcy9kMS9kMTMzOTJmYy01ZWNjLTQ0YzItOWE1NS0yM2U5NzE1ZjdmZjgiLCJtZXRhZGF0YSI6eyJydWxlIjp7InZlcnNpb24iOiIyMDE2LTEwIiwiYWN0aW9ucyI6W119fX0.FR3oPCGoJf7lVu8JND01IXvi_1r7GG94ZLO4FhP-2wvff7U4jLOEPg744dD68OQTTp7c0RkkUdhQCU1NxFXeWpGtUnq0tSLiOblMq5V5-KlRVHUz74zKiTcgtnm6ruvhbdosBovuclxQUfAvlUALqGIr1SX16Ah3yUA5YBwwMprWJ-t3TqrasIIU8raFuZ1Oo1Vltf-4wtu6QU_a7RSKZP3ZC5wMO0UFOoUTbbaL7Ea98LJGbuUe6boVYU_a7RuN3bYeD5q_9AfQA0Bh3gvmrl_yISqZmP-UDwGh00dOFABP26tlcvgMgj92D3riDQDjVCuZtCfnvJ8Lb3xO9QRPuw&AccessKeyId=d724d9a53d95a810&rule=largeDevice155",
+        "porcentaje": "96%",
+        "aplicar" : ""
+      },
+      {
+        "puesto": "Desarrollador Frontend Senior",
+        "empresa": "PROFILE SOFTWARE SERVICES",
+        "ubicacion": "España/Madrid",
+        "modalidad": "Teletrabajo",
+        "hace": "1d",
+        "estado": "Activa",
+        "descripcion": "Deseable conocimiento en desarrollo de APIs REST y microservicios con NodeJS, con librerías como: Express, Nginx, Mongoose...",
+        "contrato": "Contrato indefinido",
+        "jornada": "Jornada completa",
+        "salario": "Salario no disponible",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/c6/c6675cdb-ec48-4633-9967-ecbde348e606?rule=largeDevice155",
+        "porcentaje": "83%",
+        "aplicar" : "https://www.infojobs.net/madrid/desarrollador-frontend-senior/of-i96fcd9f2f74955be41558eba0619c8?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      },
+      {
+        "puesto": "Programador/a Senior Front/Back-End",
+        "empresa": "LA MAFIA FRANCHISES, S.L.",
+        "ubicacion": "España/Lleida",
+        "modalidad": "Híbrido",
+        "hace": "18h",
+        "estado": "Nueva",
+        "descripcion": "Esta es una gran oportunidad profesional para formar parte de un equipo multidisciplinar...",
+        "contrato": "Contrato indefinido",
+        "jornada": "Jornada completa",
+        "salario": "Salario no disponible",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/dd/dd2af62b-66f3-4574-8c7b-efb9f56461f6?rule=largeDevice155",
+        "porcentaje": "86%",
+        "aplicar" : "https://www.infojobs.net/el-palau-d-anglesola/programador-senior-front-back-end/of-i3bc142f3d64a12b7d775f76c6fbbef?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      },
+      {
+        "puesto": "Desarrollador Front (React)",
+        "empresa": "SOFTTEK",
+        "ubicacion": "España/Coruña",
+        "modalidad": "Híbrido",
+        "hace": "10h",
+        "estado": "Nueva",
+        "descripcion": "Perfiles de desarrollo Front con experiencia en Backbone / React. Además, algunas de las siguientes capacidades...",
+        "contrato": "Contrato indefinido",
+        "jornada": "Jornada completa",
+        "salario": "Salario no disponible",
+        "imagen_empresa": "https://multimedia.infojobs.net/api/v1/tenants/c7e2b9c1-8480-43b0-ad9e-000c17aa2cbb/domains/718302b6-5343-43d3-a8a3-829dc3da0893/buckets/6f3ab1cc-5920-4f4e-b131-46a4587a0e1f/images/62/623ef05c-a36e-4bf1-97c1-907318dde5d3?rule=largeDevice155",
+        "porcentaje": "89%",
+        "aplicar" : "https://www.infojobs.net/a-coruna/desarrollador-front-react/of-i7a06c1cb6e4cff95b782d892c576f5?applicationOrigin=home-search-recent%7Celement%7E48090931986%7Cversion%7Ebackpack_sorted_no_norm&searchId=48090931986&page=1&sortBy=RELEVANCE"
+      }
+    ]
+  }
+  

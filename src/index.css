@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f5f5f5;
+}
+:root {
+	--link-1: #0a7dbb;
+	--link-2: #37C5F0;
+	--link-3: gold;
+	--text: #0a99ac;
+	--counter: #30B67D;
+}

@@ -1,0 +1,63 @@
+{
+    "nombre": "Juan Gutierrez",
+    "titulo": "Desarrollador de software",
+    "nacimiento":"07/09/1999",
+    "resumen": "Soy un apasionado desarrollador de software con experiencia en desarrollo web y aplicaciones móviles.",
+    "experienciaLaboral": [
+      {
+        "puesto": "Desarrollador web",
+        "empresa": "ABC Company",
+        "periodo": "2018 - Presente",
+        "descripcion": "Desarrollo de aplicaciones web utilizando tecnologías como HTML, CSS y JavaScript. Colaboración en proyectos de equipo y mantenimiento de sitios web existentes."
+      },
+      {
+        "puesto": "Desarrollador móvil",
+        "empresa": "XYZ Mobile",
+        "periodo": "2016 - 2018",
+        "descripcion": "Creación de aplicaciones móviles nativas para Android e iOS utilizando Java y Swift. Participación en el ciclo completo de desarrollo, desde el diseño hasta la implementación y pruebas."
+      }
+    ],
+    "educacion": [
+      {
+        "titulo": "Licenciatura en Ingeniería de Software",
+        "institucion": "Universidad ABC",
+        "periodo": "2012 - 2016"
+      },
+      {
+        "titulo": "Diplomado en Desarrollo Web",
+        "institucion": "Instituto XYZ",
+        "periodo": "2017"
+      }
+    ],
+    "habilidades": [
+      "Desarrollo web",
+      "Desarrollo móvil",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "Swift",
+      "React",
+      "Node.js",
+      "Node.js",
+      "Node.js",
+      "Node.js",
+      "Node.js"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglés",
+        "nivel": "Intermedio"
+      },
+      {
+        "idioma": "Español",
+        "nivel": "Nativo"
+      }
+    ],
+    "contacto": {
+      "email": "juan@example.com",
+      "telefono": "123-456-7890",
+      "sitioWeb": "www.johndoe.com"
+    }
+  }
+  
