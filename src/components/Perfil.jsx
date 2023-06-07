@@ -6,6 +6,7 @@ import userData from "../helpers/userdata.json"
 import FloatingChatButton from "./FloatingChatButton";
 import perfil from "../assets/perfil.jpg"
 import EditModalPerfil from "./EditModalPerfil";
+import PopoverAviso from "./PopoverAviso";
 
 const Perfil = () => {
 
@@ -50,6 +51,8 @@ const Perfil = () => {
 
     return (
         <>
+
+        <PopoverAviso/>
 
             <div className="flex p-4  justify-center ">
 
